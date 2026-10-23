@@ -1,4 +1,0 @@
-interface:
-  display_name: "learn-through-work"
-  short_description: "Finish real tasks while learning the ideas behind them"
-  default_prompt: "Use $learn-through-work to help me complete this task while understanding the concepts behind it; keep explanations brief and adapt to my deadline."
